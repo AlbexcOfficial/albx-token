@@ -25,6 +25,7 @@ ALBX is used as the primary currency within the Albexc ecosystem, enabling trans
 ## Links
 - Polygonscan: https://polygonscan.com/token/0x8e904A97080FF745465d2AC9cd405A1273E07767
 - GitHub: https://github.com/AlbexcOfficial/albx-token
-
-  ## Disclaimer
+- Whitepaper: https://github.com/AlbexcOfficial/albx-token/blob/main/docs/whitepaper.md
+  
+## Disclaimer
 This token is part of an experimental platform. Always do your own research before interacting.
